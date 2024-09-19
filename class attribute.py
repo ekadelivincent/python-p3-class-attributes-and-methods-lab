@@ -60,4 +60,4 @@ print(Song.count)  # Outputs: 4
 print(Song.artists)  # Outputs: ["Jay-Z", "Oasis", "Beyonce", "Drake"]
 print(Song.genres)  # Outputs: ["Rap", "Rock", "Pop"]
 print(Song.genre_count)  # Outputs: {"Rap": 2, "Rock": 1, "Pop": 1}
-print(Song.artist_count)  # Outputs: {"Jay-Z": 1, "Oasis": 1, "Beyonce": 1, "Drake": 1}
+print(Song.artist_count)  # Outputs: {"Jay-Z": 1, "Oasis": 1, "Beyonce": 1, "Drake": 1} 
